@@ -1,2 +1,3 @@
 V1: Mobil geliştirici olma yolunda ilk adımım
 V2: Git komutlarını öğreniyorum
+V3: Git komutlarını öğrendik
